@@ -26,7 +26,10 @@
                         <div class="d-sm-flex align-items-center justify-content-between mb-4">
                             <h1 class="h3 mb-0 text-gray-800">Clínica Odontológica</h1>
                         </div>
-                        <img height="300" src="https://escolaeducacao.com.br/wp-content/uploads/2019/02/salario-odontologo.jpg" alt="alt"/>
+
+                        <h1>Alta Odontólogos</h1>
+
+                        <%@include file="components/formAltaOdont.jsp" %>
 
                     </div>
                     <!-- /.container-fluid -->

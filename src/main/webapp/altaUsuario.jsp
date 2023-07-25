@@ -22,11 +22,10 @@
                     <!-- Begin Page Content -->
                     <div class="container-fluid">
 
-                        <!-- Page Heading -->
-                        <div class="d-sm-flex align-items-center justify-content-between mb-4">
-                            <h1 class="h3 mb-0 text-gray-800">Clínica Odontológica</h1>
-                        </div>
-                        <img height="300" src="https://escolaeducacao.com.br/wp-content/uploads/2019/02/salario-odontologo.jpg" alt="alt"/>
+                        <h1>Alta Usuarios</h1>
+                        <p>Este es el apartado para dar de alta a diferentes usuarios del sistema</p>
+
+                        <%@include file="components/formAltaUsuarios.jsp" %>
 
                     </div>
                     <!-- /.container-fluid -->
